@@ -1,7 +1,7 @@
-Quem Sabe Eu Ainda Sou Um Sobrinho
-==================================
+Sobrinhagem
+================================================
 
-Paródia da música MALANDRAGEM falando sobre o dia-a-dia de um Sobrinho :)
+Paródia da música MALANDRAGEM falando sobre o dia-a-dia de um Sobrinho :) A letra está toda no masculino, mas fique a vontade para cantar no feminino, até porque não é só sobrinho que existe por ai, temos sobrinhas também :P
 
 *Dê play e vá seguindo a letra abaixo*
 <iframe width="420" height="315" src="http://www.youtube.com/embed/UkGF4RdxrWs" frameborder="0" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ Escrever código é um saco,<br>
 quem sabe código não é normal.
 
 Haa, eu só peço ao dream(weaver),<br>
-um botão aqui eum link ali.<br>
+um botão aqui e um link ali.<br>
 Pois sou sobrinho,<br>
 não sei nem por imagem.
 
@@ -38,7 +38,7 @@ Animo com flash, até com silverlight.<br>
 e ainda bloqueio o botão direito do mouse.
 
 Haa, eu só peço ao dream(weaver),<br>
-um botão aqui eum link ali.<br>
+um botão aqui e um link ali.<br>
 Pois sou sobrinho,<br>
 não sei nem por imagem.
 
@@ -52,7 +52,7 @@ Animo com flash, até com silverlight.<br>
 e ainda bloqueio o botão direito do mouse.
 
 Haa, eu só peço ao dream(weaver),<br>
-um botão aqui eum link ali.<br>
+um botão aqui e um link ali.<br>
 Pois sou sobrinho,<br>
 não sei nem por imagem.
 
@@ -62,4 +62,4 @@ Eu sou dev, e não aprendi a programar.
 Quem sabe eu ainda sou um sobrinho.
 
 ## Agradecimentos
-Gostaria de agradecer primeiramente a adobe, e depois aos sites de download que me permitiram baixar o pacote CS5 crackeado ;)
+Gostaria de agradecer primeiramente a adobe, e depois aos sites de download que me permitiram baixar o pacote CS crackeado desde o pacote CS2 até o CS6 e mais atualmente o CC :kissing_heart:
