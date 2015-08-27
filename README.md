@@ -62,4 +62,4 @@ Eu sou dev, e não aprendi a programar.
 Quem sabe eu ainda sou um sobrinho.
 
 ## Agradecimentos
-Gostaria de agradecer primeiramente a adobe, e depois aos sites de download que me permitiram baixar o pacote CS crackeado desde o pacote CS2 até o CS6 e mais atualmente o CC :kissing_heart:
+Gostaria de agradecer primeiramente a Adobe, e depois aos sites de download que me permitiram baixar o pacote CS crackeado desde o pacote CS2 até o CS6 e mais atualmente o CC :kissing_heart:
